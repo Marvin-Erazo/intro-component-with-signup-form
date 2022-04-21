@@ -1,0 +1,17 @@
+.trial{
+  text-align: center;
+  color: #fff;
+
+  margin-bottom: 20px;
+  padding: 20px 60px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  background-color: $blue;
+
+  span{
+    font-weight: 600;
+  }
+}
